@@ -21,16 +21,15 @@ body{
 
 .box{
     height: 100px;
-    min-width: 200px;
-    flex-grow: 1;
+    flex: 1 0 200px;
 }
 
 .one{
-    background: red;
+    background: red;    
 }
 
 .two{
-    background: green;
+    background: green;    
 }
 
 .three{
