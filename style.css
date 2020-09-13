@@ -18,6 +18,8 @@ body{
     background: #fff;
     flex-wrap: wrap;
     flex-flow: row-reverse;
+    height: 400px;
+    align-items: center;
     justify-content: flex-end;
 }
 
